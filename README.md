@@ -1,5 +1,10 @@
 # Financial Market Analysis with a Finite State Machine (FSM)
-![Annual Return for forex algo-trading](https://github.com/user-attachments/assets/31a3b66a-ce75-4d5f-9141-7468ae648104)
+
+## Back Testing
+![Backtesting Annual Return for forex algo-trading](https://github.com/user-attachments/assets/31a3b66a-ce75-4d5f-9141-7468ae648104)
+
+## Live Testing July - Sep 2025
+![Livetesting Return for forex algo-trading](https://github.com/user-attachments/assets/2edc08a1-7c3b-428d-bdcb-ae3892a55948)
 
 This repository hosts algorithmic trading strategies for forex and stock market, blending sophisticated technical analysis with robust statistical methods. The core of this project is a Finite State Machine (FSM) designed to identify high-probability trading setups based on market structure, trend dynamics, and Fibonacci levels.
 
@@ -108,3 +113,4 @@ Use volatility metrics (e.g., Bollinger Bands) and momentum indicators (e.g., RS
 - **Contextual Market Analysis**: Integrate economic calendar data to avoid trading during high-impact events. Use correlation analysis between assets (e.g., currency pairs, commodities) to identify broader trends.
 - **Machine Learning Enhancements**: Train models for pattern recognition (e.g., head-and-shoulders, flags). Assign probability scores to trade setups using historical success rates.
 - **Cross-Market Application**: Extend FSM to other markets like equities, commodities, and cryptocurrencies, adapting to their unique characteristics.
+
